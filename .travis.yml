@@ -7,6 +7,5 @@ go:
 script:
  - cd server
  - go build ./...
- - cd 
- - cd client
+ - cd ../client
  - go build ./...
